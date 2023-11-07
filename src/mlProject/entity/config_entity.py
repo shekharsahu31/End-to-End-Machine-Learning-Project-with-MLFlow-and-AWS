@@ -17,3 +17,10 @@ class DataValidationConfig:
     STATUS_FILE: str
     unzip_data_dir: Path
     all_schema: dict # to store data of schema.yaml file we are using this extra variable , other all are to store PATHs    
+
+
+
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
