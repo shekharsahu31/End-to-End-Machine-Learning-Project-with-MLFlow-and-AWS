@@ -1,0 +1,11 @@
+# This config.yaml is used to store key : value pairs for storing folder/ files name or path to a key(variable)
+# so these keys or variables can be used any where easily pointing to path of file/ folder.
+
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
