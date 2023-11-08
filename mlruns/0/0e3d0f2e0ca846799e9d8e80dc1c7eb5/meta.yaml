@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0e3d0f2e0ca846799e9d8e80dc1c7eb5/artifacts
+end_time: 1699437793817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e3d0f2e0ca846799e9d8e80dc1c7eb5
+run_name: adventurous-hare-592
+run_uuid: 0e3d0f2e0ca846799e9d8e80dc1c7eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699437788758
+status: 4
+tags: []
+user_id: Vipul Sahu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b511afc12a34d10a687742d81dec0d0/artifacts
+end_time: 1699437494549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b511afc12a34d10a687742d81dec0d0
+run_name: fun-midge-694
+run_uuid: 7b511afc12a34d10a687742d81dec0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699437490032
+status: 4
+tags: []
+user_id: Vipul Sahu
