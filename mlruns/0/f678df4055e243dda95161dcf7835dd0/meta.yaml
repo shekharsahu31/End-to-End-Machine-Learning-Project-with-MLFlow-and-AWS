@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f678df4055e243dda95161dcf7835dd0/artifacts
+end_time: 1699431080860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f678df4055e243dda95161dcf7835dd0
+run_name: learned-horse-388
+run_uuid: f678df4055e243dda95161dcf7835dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699431075548
+status: 4
+tags: []
+user_id: Vipul Sahu

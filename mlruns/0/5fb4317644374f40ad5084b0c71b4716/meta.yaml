@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5fb4317644374f40ad5084b0c71b4716/artifacts
+end_time: 1699432305418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fb4317644374f40ad5084b0c71b4716
+run_name: abundant-horse-5
+run_uuid: 5fb4317644374f40ad5084b0c71b4716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699432300973
+status: 4
+tags: []
+user_id: Vipul Sahu

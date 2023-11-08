@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34afc46b599e451098a3f80560f90bf7/artifacts
+end_time: 1699436060280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34afc46b599e451098a3f80560f90bf7
+run_name: persistent-skunk-889
+run_uuid: 34afc46b599e451098a3f80560f90bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699436054395
+status: 4
+tags: []
+user_id: Vipul Sahu
